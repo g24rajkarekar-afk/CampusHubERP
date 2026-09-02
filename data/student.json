@@ -1,0 +1,9 @@
+[
+    {
+        "student_id": "ST001",
+        "name": "Raj Karekar",
+        "age": 21,
+        "email": "raj@gmail.com",
+        "department": "Computer Science"
+    }
+]

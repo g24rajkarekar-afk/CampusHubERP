@@ -1,0 +1,4 @@
+Course Code: CS101
+Course Name: Advanced Python
+Credits: 5
+

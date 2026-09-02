@@ -1,0 +1,6 @@
+Faculty ID: FC001
+Name: Radhika Ahuja
+Age: 35
+Email: radhika@gmail.com
+Department: Computer Science
+

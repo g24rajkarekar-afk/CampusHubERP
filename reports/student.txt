@@ -1,0 +1,6 @@
+Student ID: ST001
+Name: Raj Karekar
+Age: 21
+Email: raj@gmail.com
+Department: Computer Science
+
